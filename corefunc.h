@@ -55,7 +55,7 @@ public:
 	string currentWorld;
 	bool connect = false;
 	int timeFromWorldEnter = 0; // in 10mss...
-	string gameVersion = "3.65";
+	string gameVersion = "4.51";
 	int owner = -1;
 	string ownerUsername;
 	int localX = -1;
